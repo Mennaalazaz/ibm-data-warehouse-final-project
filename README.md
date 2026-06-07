@@ -128,29 +128,6 @@ and can be refreshed when new data is loaded.
 
 ---
 
-## Project Structure
-
-```text
-.
-├── SQL/
-│   ├── create_tables.sql
-│   ├── load_data.sql
-│   ├── grouping_sets.sql
-│   ├── rollup.sql
-│   ├── cube.sql
-│   └── materialized_view.sql
-│
-├── data/
-│   ├── DimDate.csv
-│   ├── DimTruck.csv
-│   ├── DimStation.csv
-│   └── FactTrips.csv
-│
-└── README.md
-```
-
----
-
 ## Learning Outcomes
 
 This project demonstrates:
@@ -164,8 +141,3 @@ This project demonstrates:
 * Materialized views optimization
 
 ---
-
-## Author
-
-Menna
-Data Engineering Student

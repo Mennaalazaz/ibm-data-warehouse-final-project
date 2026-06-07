@@ -21,6 +21,9 @@ The data warehouse enables reporting such as:
 
 ## Data Warehouse Schema
 
+<img width="3519" height="3480" alt="erd" src="https://github.com/user-attachments/assets/1e3eb333-c5fc-4ed4-8a66-866cba6c477a" />
+
+
 The project follows a Star Schema design consisting of:
 
 ### Dimension Tables

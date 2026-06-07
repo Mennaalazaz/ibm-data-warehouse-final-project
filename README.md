@@ -1,4 +1,4 @@
-# ibm-data-warehouse-final-project# IBM Data Warehouse Final Project
+# IBM Data Warehouse Final Project
 
 ## Overview
 
